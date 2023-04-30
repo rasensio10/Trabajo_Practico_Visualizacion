@@ -38,3 +38,7 @@ div.text {
   margin: 20px;
   border-radius: 10px;
 }
+
+p {
+  text-align: center;
+}
